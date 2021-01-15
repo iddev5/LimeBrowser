@@ -1,0 +1,9 @@
+<!DOCTYPE RCC>
+<RCC version = "1.0">
+	<qresource prefix = "icons">
+		<file alias = "arrow-left">arrow-left.png</file>
+		<file alias = "arrow-right">arrow-right.png</file>
+		<file alias = "reload">reload.png</file>
+		<file alias = "stop">stop.png</file>
+	</qresource>
+</RCC>
